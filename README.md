@@ -1,3 +1,29 @@
+# MiroThinker
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+MiroThinker is a deep research agent optimized for complex research and prediction tasks. Our latest models, MiroThinker-1.7, achieves 74.0 and 75.3 on the BrowseComp and BrowseComp Zh, respectively.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+面向复杂研究与预测任务的深度研究 Agent，最新模型 MiroThinker-1.7 取得领先成绩。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
   <img src="assets/mirothinker_logo.png" width="55%" alt="MiroThinker" />
 </div>
